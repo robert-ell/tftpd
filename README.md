@@ -34,6 +34,9 @@ server, and 1/9 saying bad words to vim.
 I did not look at any docs regarding TFTP implementations, in any language,
 except for the single reference doc RFC1350.
 
+I wasn't sure exactly how much error handling and spinning on timeouts and such
+was expected.  I basically ignored that part of the reference doc.
+
 I wish I had a more complete thing to share, but I really enjoyed this exercise anyway.
 It's been a very long time since I've had to think about these types of things, and
 dipping my toes in go was a (mostly) great experience.
